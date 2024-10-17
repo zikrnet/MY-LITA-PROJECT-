@@ -145,3 +145,6 @@ Note: There is no product without sales in the last quarter
 o Create a dashboard that visualizes the insights found in Excel and SQL. The 
 dashboard should include a sales overview, top-performing products, and 
 regional breakdowns.
+
+# EXCEL 
+![VISUALIZATION](https://github.com/user-attachments/assets/9eab8e97-0c37-4d63-a26b-fc14cb861a50)
