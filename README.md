@@ -142,6 +142,13 @@ Note: There is no product without sales in the last quarter
 
 # 3. Power BI: 
 
+It can connect to various data sources, including databases, cloud services, Excel spreadsheet, SQL etc. Users can clean and transform data using Power Query, making it ready for analysis. 
+
+#Importing of Data from Excel
+In Power BI, import mode allows users to load data from various sources into the application's internal memory.
+
+![import data](https://github.com/user-attachments/assets/27a8e577-7b12-4b3d-b10f-c2a0f4c502d7)
+
 o Create a dashboard that visualizes the insights found in Excel and SQL. The 
 dashboard should include a sales overview, top-performing products, and 
 regional breakdowns.
