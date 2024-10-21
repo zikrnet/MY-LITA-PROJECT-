@@ -155,3 +155,7 @@ regional breakdowns.
 
 # EXCEL 
 ![VISUALIZATION](https://github.com/user-attachments/assets/9eab8e97-0c37-4d63-a26b-fc14cb861a50)
+
+
+![sales overview](https://github.com/user-attachments/assets/ed78d077-9c0b-444b-bab1-87ae22444d0c)
+
