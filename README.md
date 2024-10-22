@@ -12,12 +12,16 @@ Instructions:
    
 o Perform an initial exploration of the sales data. Use pivot tables to summarize 
 total sales by product, region, and month. 
+
+![new project 1](https://github.com/user-attachments/assets/e37d0b43-d680-46f5-82c3-1aaeb2265079)
+
+
 o Use Excel formulas to calculate metrics such as average sales per product and 
 total revenue by region. 
+
 o Create any other interesting report
 
-![excel project 1](https://github.com/user-attachments/assets/a6f3e648-e28e-44e8-bcbc-5e02fdcb021c)   
-![excel project 2](https://github.com/user-attachments/assets/0c33d886-2bfc-497a-a7b4-5375b31a4e2f)
+![new project 2](https://github.com/user-attachments/assets/2b4b38a2-639d-459f-adc1-2f9ddf3fef6d)
 
 
 ---
