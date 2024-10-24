@@ -19,9 +19,23 @@ total sales by product, region, and month.
 o Use Excel formulas to calculate metrics such as average sales per product and 
 total revenue by region. 
 
-o Create any other interesting report
+i.   AverageIF
+
+```
+=AVERAGEIF(C2:C9922,C2,H2:H9922)
+```
+
+ii.   SumIF
+
+```
+=SUMIF(D2:D9922,D2,H2:H9922)
+```
+
 
 ![new project 2](https://github.com/user-attachments/assets/2b4b38a2-639d-459f-adc1-2f9ddf3fef6d)
+
+
+o Create any other interesting report
 
 
 ---
