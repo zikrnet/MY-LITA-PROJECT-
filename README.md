@@ -158,11 +158,17 @@ dashboard should include a sales overview, top-performing products, and
 regional breakdowns.
 
 ## Dashboard Design
+
 A.   Sales Overview:            This section provides an overall view of the sales performance over time
+
 B.   Top Performing Products:   This section shows which products are driving the most sales
+
 C.   Regional Breakdown:        This section visualizes sales by Region
+
 D.   Interactivity with Filters and Slicers:   To make the dashboard interactive, add slicers to filter by different dimensions;
+
 i.   Date Slicers:               Allow filtering by date range
+
 ii.   Product Slicer:            Let users filter the visuals by specific product categories or individual products 
 
 ![project dashboard](https://github.com/user-attachments/assets/8ef5e584-7f94-4ae9-937f-5522c98ab351)
