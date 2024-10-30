@@ -206,4 +206,39 @@ i.   Date Slicers:               Allow filtering by date range
 
 ii.   Product Slicer:            Let users filter the visuals by specific product categories or individual products 
 
-![project dashboard](https://github.com/user-attachments/assets/8ef5e584-7f94-4ae9-937f-5522c98ab351)
+E.   Total Number of CustomerID:   It will explain the total number of CustomerID
+
+F.   Total Revenue:   Revenue generated over a specific period 
+
+G.   Average Sales Per Product:   Over Two Million Per Product
+
+H.   Number of Products:   The total number of products
+
+I.   Region:   Using Slicer to highlight the region
+
+J.   Total Revenue by Month:   Using Line Chart to represent the total sales by Month
+
+K.   Total Revenue by Product:   Using donut chart to explain the total sales by product
+
+L.   Total Revenue by Product:   Using Stacked Bar Chart to explain the total sales by product   
+
+
+![project 1 sales](https://github.com/user-attachments/assets/ad8e3f7d-9ebe-46ec-be81-92d7acfc199a)
+
+
+
+![sales 2](https://github.com/user-attachments/assets/4cffa20b-fd57-4dc9-9784-66ffe018e3e6)
+
+
+## Expected Outcomes
+
+*   Comprehensive insight into sales trends and product performance
+*   Identification of sales peaks and seasonal trends
+*   Strategies for increasing sales based on customer buying behaviours
+*   Actionable recommendations to improve underperformiing areas and optimize product placement
+
+## Recommendations
+
+*   Summarize key findings and insights into a report or presentation
+*   Provide actionable recommendations based on data analysis, such as adjusting product stock, rethinking promotions, or targeting specific customer segments
+*   Suggest next steps for continous monitoring and further analysis 
