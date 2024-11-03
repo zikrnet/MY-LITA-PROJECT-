@@ -146,7 +146,11 @@ ORDER BY TotalPurchaseAmount DESC;
 
 ![top 5](https://github.com/user-attachments/assets/8d1eeb0c-285f-475b-b511-d2270e20a489)
 
+This query provides the top 5 customers based on their total purchase amount, to identify high-value customers. 
+
 o calculate the percentage of total sales contributed by each region. 
+
+To calculate the percentage of total sales contributed by each region, sum up the sales for each region, then divide each region's total sales by the overall sales and multiply by 100 to get the percentage. 
 
 ```
 WITH TotalSales AS (
@@ -164,6 +168,8 @@ ts.TotalSalesAmount;
 
 ![percentage](https://github.com/user-attachments/assets/6f9f43ea-f110-4d85-bb81-3399ee076d08)
 
+This query with the total sales amount and percentage contribution for each region, making it easy to see which regions are the biggest contributors to total sales.
+
 o identify products with no sales in the last quarter.
 
 ```
@@ -177,7 +183,7 @@ HAVING SUM(Quantity)=0;
 
 ![no sales](https://github.com/user-attachments/assets/2f2a8c27-1b54-4903-a734-f05bb5c6c70d)
 
-Note: There is no product without sales in the last quarter
+This approach gives a clear view of products that may require promotional efforts or inventory adjustments due to recent inactivity. Note: There is no product without sales in the last quarter
 
 # 3. Power BI: 
 
