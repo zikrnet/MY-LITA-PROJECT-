@@ -122,16 +122,15 @@ GROUP BY Product
 o calculate monthly sales totals for the current year. 
 
 ```
-SELECT MONTH(orderdate) AS
-Month, SUM(quantity * UnitPrice) AS
-monthly_sales
+SELECT DATENAME(MONTH, OrderDate) AS MonthName, SUM(revenue) AS MonthlySalesTotal
 FROM [dbo].['LITA Capstone project$']
-WHERE YEAR(orderdate)= 
-YEAR(GETDATE())
-GROUP BY Month(orderdate);
+WHERE YEAR(OrderDate) = YEAR(GETDATE())
+GROUP BY MONTH(OrderDate), DATENAME(MONTH, OrderDate)
+ORDER BY MONTH(OrderDate);
 ```
 
-![monthly sales total](https://github.com/user-attachments/assets/94d4e075-30af-40c8-921f-9eff34d355c6)
+![30](https://github.com/user-attachments/assets/71f2bd5d-9ada-4003-9a05-fa94b2b6ca0b)
+
 
 o find the top 5 customers by total purchase amount. 
 
@@ -173,17 +172,18 @@ This query with the total sales amount and percentage contribution for each regi
 o identify products with no sales in the last quarter.
 
 ```
+SELECT DISTINCT Product
+FROM [dbo].['LITA Capstone project$']
+WHERE Product NOT IN (
 SELECT Product
 FROM [dbo].['LITA Capstone project$']
-WHERE OrderDate <
-DATEADD(QUARTER,-1,GETDATE())
-GROUP BY Product
-HAVING SUM(Quantity)=0;
+WHERE OrderDate >= DATEADD(QUARTER, -1, GETDATE())
+)
 ```
 
-![no sales](https://github.com/user-attachments/assets/2f2a8c27-1b54-4903-a734-f05bb5c6c70d)
+![31](https://github.com/user-attachments/assets/debb3b83-5225-499b-8dc5-5519c3c402aa)
 
-This approach gives a clear view of products that may require promotional efforts or inventory adjustments due to recent inactivity. Note: There is no product without sales in the last quarter
+This approach gives a clear view of products that may require promotional efforts or inventory adjustments due to recent inactivity. 
 
 # 3. Power BI: 
 
