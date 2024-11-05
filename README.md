@@ -66,8 +66,31 @@ ii.   SumIF
 o Create any other interesting report
 
 ##   Excel Chart
-![49](https://github.com/user-attachments/assets/9ef69bf9-fa21-4eec-9a8f-99590c233c16)
 
+This report provides an overview of total sales across different products, regions and months, helping to identify trends, top-performing categories and potential areas for growth. 
+
+
+![48](https://github.com/user-attachments/assets/9983fa7f-7c74-4b53-89e1-cd2579c91741)
+
+
+##   Data Overview
+
+The chart summarizes total sales data for various products across four regions (East, North, South, and West) over the last twelve months. 
+
+##   Key Insights by Category
+
+*   Product Analysis
+  
+   Shoe showed the highest total sales, especially in the South region. Shirt showed consistent performance, with minor fluctuations. 
+   
+
+*   Regional Analysis
+     The highest sales in the South region accounting for 60% of total sales. The East region showed a growth trend over the months.
+
+*   Monthly Analysis
+     Sales peaked in the following months (Feb, Jan, june, and July)
+
+In conclusion, the South region, and the product (Shoe) represent significant sales opportunities. A strategic approach targeting these insights may enhance sales growth. 
 
 
 2. SQL:
@@ -76,7 +99,6 @@ Hint – You need to load the dataset into your SQL Server environment to write 
 validate your queries.
 
 ```
-create database MY_LITA_PROJECT_1
 select * from [dbo].['LITA Capstone project$']
 ```
 
