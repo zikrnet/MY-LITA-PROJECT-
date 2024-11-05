@@ -35,8 +35,7 @@ o Perform an initial exploration of the sales data. Use pivot tables to summariz
 total sales by product, region, and month. 
 
 
-![48](https://github.com/user-attachments/assets/bdb1c050-97bd-4f42-97d7-6a02ab0c4f63)
-
+![48](https://github.com/user-attachments/assets/4a38cc74-35b7-426b-aa05-40f9888ecc5a)
 
 
 o Use Excel formulas to calculate metrics such as average sales per product and 
