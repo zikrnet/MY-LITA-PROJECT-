@@ -65,7 +65,8 @@ ii.   SumIF
 
 o Create any other interesting report
 
-
+##   Excel Chart
+![49](https://github.com/user-attachments/assets/9ef69bf9-fa21-4eec-9a8f-99590c233c16)
 
 
 
