@@ -43,17 +43,22 @@ total revenue by region.
 i.   AverageIF
 
 ```
-=AVERAGEIF(C2:C9922,C2,H2:H9922)
+=AVERAGEIF($C2:$C9922,$C2,$H2:$H9922)
 ```
+
+![45](https://github.com/user-attachments/assets/54b05405-eace-40e9-8635-e45719113bf4)
 
 ii.   SumIF
 
 ```
-=SUMIF(D2:D9922,D2,H2:H9922)
+=SUMIF($D2:$D9922,$D2,$H1:$H9922)
 ```
 
+![46](https://github.com/user-attachments/assets/a0736373-ee8f-4167-8535-bc59867b6e5f)
 
-![new project 2](https://github.com/user-attachments/assets/2b4b38a2-639d-459f-adc1-2f9ddf3fef6d)
+
+
+![47](https://github.com/user-attachments/assets/da75efa1-a026-4662-b8cc-7024aa3f2e66)
 
 
 o Create any other interesting report
