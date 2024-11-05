@@ -70,7 +70,8 @@ o Create any other interesting report
 This report provides an overview of total sales across different products, regions and months, helping to identify trends, top-performing categories and potential areas for growth. 
 
 
-![48](https://github.com/user-attachments/assets/9983fa7f-7c74-4b53-89e1-cd2579c91741)
+
+![50](https://github.com/user-attachments/assets/24deabda-c02b-4dc5-be7b-e2d171dae6a8)
 
 
 ##   Data Overview
