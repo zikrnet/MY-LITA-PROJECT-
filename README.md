@@ -10,9 +10,9 @@ A sales performance analysis in a retail store typically aims to evealuate and u
 *   To analyze customer buying patterns, and regional trends on sales.
 
 2.   Data Collection
-The main data sources for this analysis is the "Data Sales" file, which are open-source datasets available
+The primary source of data used is LITA CAPSTONE DATASET.
 
-3.   Tools Used
+4.   Tools Used
 *   Excel:   for data cleaning and visualization
 *   SQL:     Utilized for data cleaning through queries
 *   PowerBI:   Used for both data cleaning and visualization
